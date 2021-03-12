@@ -1,0 +1,7 @@
+	Disciplina					Créditos	Professor
+MAT 147 - Cálculo II					   4 		----
+INF 280 - Pesquisa Operacional				   4		José Elias/Mauro
+INF 420 - Inteligência Artificial I			   4		Alcione
+INF 450 - Organização de Computadores II		   4		Ricardo
+INF 452 - Redes de Computadores				   4		Vitor
+						       Total 20

@@ -1,0 +1,9 @@
+{
+  "name": "04-async_await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "MIT"
+}
